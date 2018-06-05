@@ -95,5 +95,6 @@ public class MainActivity extends AppCompatActivity {
 
         sessionCallback = new SessionCallback();
         Session.getCurrentSession().addCallback(sessionCallback);
+        //
     }
 }
