@@ -95,6 +95,6 @@ public class MainActivity extends AppCompatActivity {
 
         sessionCallback = new SessionCallback();
         Session.getCurrentSession().addCallback(sessionCallback);
-        //
+        //배가 고프다 왜 안되는것이냐
     }
 }
